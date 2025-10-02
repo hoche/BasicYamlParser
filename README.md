@@ -4,6 +4,8 @@ Single-include YAML parser.
 
 Doesn't do everything, but I'm working on it.
 
+For stuff it doesn't do, see the disabled tests. :)
+
 
 ## Basic Parsing from a String
 
